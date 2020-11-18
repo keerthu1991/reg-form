@@ -1,4 +1,4 @@
-import React ,{Component} from 'react'
+import React from 'react'
 import UserForm from './components/UserForm'
 import './App.css';
 
